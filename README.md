@@ -1,9 +1,6 @@
 ## Hi there, my name is Guilherme Medeiros Aiex 👋
-### I'm a front-end developer
+### I'm a Full-stack developer
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Aiex02&theme=blue-green">
-</div>
 
 ## 💻 Languages and Tools 
 
